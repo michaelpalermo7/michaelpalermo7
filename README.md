@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A computer science student passionate about software</h3>
 
-- 🔭 I’m currently working on [fairshare](https://github.com/michaelpalermo7?tab=overview&from=2025-08-01&to=2025-08-30](https://github.com/michaelpalermo7/fairshare))
+- 🔭 I’m currently working on [splitto-app](https://github.com/michaelpalermo7/splitto-app)
 
 - 🌱 I’m currently learning **Springboot**
 
