@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A computer science student passionate about software</h3>
 
-- 🔭 I’m currently working on [splitto-app](https://github.com/michaelpalermo7/splitto-app)
+- 🔭 I’m currently working on [expense-splitter-app](https://github.com/michaelpalermo7/expense-splitter-app)
 
 - 🌱 I’m currently learning **Springboot**
 
