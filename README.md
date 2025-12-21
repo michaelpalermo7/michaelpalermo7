@@ -1,4 +1,4 @@
-<h1 align="left">🏄🏼‍♂️ Michael P.</h1>
+<h1 align="left">👨🏻‍💻 Michael P.</h1>
 
 <p>
   I'm an full-stack developer building things I think are cool. I love exploring new technologies and improving my skills one project at a time. Welcome to my GitHub.
